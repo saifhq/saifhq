@@ -1,16 +1,16 @@
-## Hi there 👋
+ ## Hi, I'm Saif
 
-<!--
-**saifhq/saifhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Building open-source tools for developers working with proxies, scraping,
+  and network automation.
 
-Here are some ideas to get you started:
+  Co-founder at [hproxy](https://hproxy.com). Residential, ISP, mobile &
+  datacenter proxies from $0.65/GB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Focus areas:**
+  - Proxy rotation & session management
+  - TLS fingerprint tooling (JA3/JA4)
+  - Anti-bot detection utilities
+  - Scraping framework middleware
+
+  📫 [saif@hproxy.com](mailto:saif@hproxy.com) ·
+  [@mnotsaif](https://x.com/mnotsaif) · [hproxy.com](https://hproxy.com)
