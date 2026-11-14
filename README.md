@@ -13,4 +13,4 @@
   - Scraping framework middleware
 
   📫 [saif@deproxy.io](mailto:saif@deproxy.io) ·
-  [@mnotsaif](https://x.com/mnotsaif) · [hproxy.com](https://deproxy.io)
+  [@mnotsaif](https://x.com/mnotsaif) · [deproxy.io](https://deproxy.io)
